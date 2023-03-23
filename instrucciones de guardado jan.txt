@@ -1,0 +1,7 @@
+Para guardar la imagen desde postman, es con la clave "imagen" y el tipo "file"
+
+Para guardar el video desde postman, es con la clave "video" y el tipo "file"
+
+Para guardar la musica desde postman, es con la clave "musica" y el tipo "file"
+
+Para guardar archivos multimedia de reproduccion remosta desde postman, es con la clave "file" y el tipo "file"
